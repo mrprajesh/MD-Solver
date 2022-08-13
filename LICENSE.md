@@ -2,10 +2,10 @@ MIT License
 
 Copyright (c) 2022 Team Resilience of IIT Madras.
 
-- Rajesh Pandian M
-- Somesh Singh
-- Rupesh Nasre.
-- N.S.Narayanaswamy
+- [Rajesh Pandian M](http://www.cse.iitm.ac.in/~mrprajesh/)
+- [Somesh Singh](https://ssomesh.github.io/)
+- [Rupesh Nasre.](http://www.cse.iitm.ac.in/~rupesh/)
+- [N.S.Narayanaswamy](http://www.cse.iitm.ac.in/~swamy/)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
