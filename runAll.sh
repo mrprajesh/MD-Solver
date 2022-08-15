@@ -3,7 +3,7 @@
 #~ INPDIR=inputsSmall
 #~ INPDIR=inputsLarge
 
-INPDIR=sample
+INPDIR=inputs
  
 EXENAME=main
  
