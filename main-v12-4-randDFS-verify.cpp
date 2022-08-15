@@ -5,6 +5,7 @@
  * Rajesh Pandian M | https://mrprajesh.co.in
  * Somesh Singh     | https://ssomesh.github.io
  * Rupesh Nasre     | www.cse.iitm.ac.in/~rupesh
+ * N.S.Narayanaswamy| www.cse.iitm.ac.in/~swamy
  */
 #include <bits/stdc++.h>
 
