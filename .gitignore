@@ -1,3 +1,6 @@
+sample/
+out*/
+HGS-CVRP/
 # Prerequisites
 *.d
 

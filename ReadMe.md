@@ -1,3 +1,6 @@
+## MD-Solver
+MD-Solver or MD-CVRP heuristic for solving Capacitated Vehicle Routing Problem or CVRP.
+
 ## How to build and run
 
 1. Run shell script `./runAll.sh`
